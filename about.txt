@@ -1,0 +1,2 @@
+Bhavani,BSC-CS
+GitHub is a web-based platform used for version control and collaborative software development
